@@ -1,4 +1,4 @@
-
+ 
 <p align="center">
   <picture>
     <source
@@ -8,6 +8,7 @@
 
     <img
       alt="Neofetch Profile"
-      src="https://neofetch-profile.vercel.app/api?username=YOUR_USERNAME&theme=github-light&config=YOUR_ENCODED_CONFIG_URL">
+      src="https://neofetch-profile.vercel.app/api?username=23f3000175&theme=github-light&config=[(https://raw.githubusercontent.com/23f3000175/23f3000175/refs/heads/main/neofetch.json]
+)">
   </picture>
 </p>
