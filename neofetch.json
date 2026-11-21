@@ -7,7 +7,7 @@
 
   "sections": [
     {
-      "title": "username@github",
+      "title": "{{username}}@github",
       "fields": [
         {
           "key": "Name",
