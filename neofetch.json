@@ -27,7 +27,7 @@
         },
         {
           "key": "Uptime",
-          "value": "{{uptime}}"
+          "value": "{{age}}"
         }
       ]
     },
