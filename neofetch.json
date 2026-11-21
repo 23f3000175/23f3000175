@@ -35,7 +35,7 @@
       "fields": [
         {
           "key": "OS",
-          "value": "Linux, Mac, Android"
+          "value": "Linux / Mac / Android"
         },
         {
           "key": "Languages",
